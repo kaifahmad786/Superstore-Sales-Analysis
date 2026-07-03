@@ -42,3 +42,24 @@ The complete workflow includes:
 - Power BI
 - DAX
 - CSV Dataset
+
+
+---
+
+# 📷 Dashboard Preview
+
+## 📊 Main Dashboard
+
+![Main Dashboard](Screenshots/Dashboard.png)
+
+---
+
+## 📈 Detailed Analysis Dashboard
+
+![Detailed Analysis](Screenshots/Detailed_Analysis.png)
+
+---
+
+## 🗄 PostgreSQL Database
+
+![PostgreSQL Database](Screenshots/PostgreSQL_Database.png)
