@@ -63,3 +63,54 @@ The complete workflow includes:
 ## 🗄 PostgreSQL Database
 
 ![PostgreSQL Database](Screenshots/PostgreSQL_Database.png)
+
+---
+
+# 📈 Key Performance Indicators (KPIs)
+
+- 💰 Total Sales
+- 📊 Total Profit
+- 🛒 Total Orders
+- 👥 Total Customers
+
+---
+
+# 📊 Dashboard Features
+
+- Interactive KPI Cards
+- Monthly Sales Trend
+- Region-wise Sales Analysis
+- Category-wise Sales Analysis
+- Top 10 Products
+- Top 10 Customers
+- Top 10 Cities
+- Order Details Table
+- Interactive Filters & Slicers
+- Navigation Between Dashboard Pages
+
+---
+
+# 💡 Business Insights
+
+- Identified top-performing regions based on sales.
+- Compared category-wise sales and profit performance.
+- Analyzed monthly sales trends.
+- Identified top customers and products.
+- Built an interactive dashboard for business decision-making.
+
+---
+
+# 👨‍💻 Author
+
+**Md Kaif**
+
+Aspiring Data Analyst
+
+Skills:
+- PostgreSQL
+- SQL
+- Power BI
+- DAX
+- Python
+
+
