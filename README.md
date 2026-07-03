@@ -107,10 +107,62 @@ The complete workflow includes:
 Aspiring Data Analyst
 
 Skills:
+
+---
+
+# 📂 Project Structure
+
+```text
+Superstore-Sales-Analysis
+│
+├── Dashboard
+│   └── Superstore_Sales_Analysis.pbix
+│
+├── Dataset
+│   └── SampleSuperstore.csv
+│
+├── SQL
+│   ├── Database_Setup.sql
+│   ├── Sales_Analysis_Queries.sql
+│   └── DDL.sql
+│
+├── Screenshots
+│   ├── Dashboard.png
+│   ├── Detailed_Analysis.png
+│   └── PostgreSQL_Database.png
+│
+├── Documentation
+│
+├── README.md
+└── LICENSE
+```
 - PostgreSQL
 - SQL
 - Power BI
 - DAX
 - Python
 
+---
 
+# 🚀 How to Run
+
+1. Download the repository.
+2. Import the Superstore dataset into PostgreSQL.
+3. Execute the SQL scripts.
+4. Open the Power BI (.pbix) file.
+5. Refresh the data connection.
+6. Explore the interactive dashboard.
+
+7. ---
+
+# 📚 Skills Demonstrated
+
+- SQL
+- PostgreSQL
+- Power BI
+- DAX
+- Data Cleaning
+- Data Visualization
+- Business Intelligence
+- Dashboard Design
+- Analytical Thinking
